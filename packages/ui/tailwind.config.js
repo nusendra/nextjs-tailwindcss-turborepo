@@ -1,1 +1,1 @@
-module.exports = require("@nusendra/configs/tailwind/tailwind.config");
+module.exports = require("@nusendra/tailwind-config/tailwind.config");
